@@ -69,6 +69,7 @@
     "@types/ember__template": "^4.0.7",
     "@types/ember__test": "^4.0.6",
     "@types/ember__utils": "^4.0.7",
+    "@types/lodash": "^4.17.7",
     "@types/qunit": "^2.19.10",
     "@types/rsvp": "^4.0.9",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
@@ -113,5 +114,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
